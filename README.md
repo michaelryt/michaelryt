@@ -1,6 +1,6 @@
-### <center> Michael's the name 👋 </center>
+### Michael's the name 👋
 
-<center> ![Introduction java](https://github.com/michaelryt/michaelryt/assets/126629984/8772a0fa-bc21-4a54-9dd6-0fa12d2fc285) </center>
+![Introduction java](https://github.com/michaelryt/michaelryt/assets/126629984/8772a0fa-bc21-4a54-9dd6-0fa12d2fc285)
 
 <!-- **michaelryt/michaelryt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -11,4 +11,4 @@
 - 💬 Ask me about anything, hit me up, pal!
 - 📫 How to reach me: Facebook's Michael Rey Tuando and Instagram's mchlryt.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I made this thing today :)
+- ⚡ Fun fact: I study AI to beat AI.
