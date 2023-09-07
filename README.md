@@ -1,6 +1,6 @@
 ### Michael's the name 👋
 
-![Java intro](https://github.com/michaelryt/michaelryt/assets/126629984/9186eb8f-73ae-41a5-b6c5-5d29e305deb5)
+![Introduction java](https://github.com/michaelryt/michaelryt/assets/126629984/8772a0fa-bc21-4a54-9dd6-0fa12d2fc285)
 
 <!-- **michaelryt/michaelryt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
