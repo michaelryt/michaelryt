@@ -1,6 +1,6 @@
 ### Michael's the name 👋
 
-https://github.com/michaelryt/michaelryt/assets/126629984/cf81b3a0-1108-4b08-b453-a2243f4dc5c7
+![Uploading Intro Gif Java.gif…]()
 
 <!-- **michaelryt/michaelryt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
