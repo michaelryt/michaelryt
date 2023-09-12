@@ -1,4 +1,4 @@
-### <center> Michael's the name 👋 </center>
+### <p align="center"> Michael's the name 👋 </p>
 
 ### ![Introduction java](https://github.com/michaelryt/michaelryt/assets/126629984/8772a0fa-bc21-4a54-9dd6-0fa12d2fc285)
 
