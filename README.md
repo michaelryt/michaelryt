@@ -1,17 +1,47 @@
-# <p align="center"> Hey there! Michael's the name 👋 </p>
+# 🖖 Hey devs! I'm Michael" <img align="right" src="https://komarev.com/ghpvc/?username=michaelryt&style=flat-square&color=blueviolet">
 
-# <p align="center"> ![Introduction java](https://github.com/michaelryt/michaelryt/assets/126629984/8772a0fa-bc21-4a54-9dd6-0fa12d2fc285) </p>
+Currently, I am pursuing a tech-related degree at one of the most prestigious universities in the Philippines.
 
-<!-- **michaelryt/michaelryt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-</br>
+I aspire to become a front-end developer and designer. Among all the fields I have explored, it is my passion for communication through clean and reliable visual interfaces that has driven me to consider web development as my dream career.
 
-### 
+## 👨🏻‍💻 About me
 
-- 🔭 I’m currently working on improving my coding skills.
-- 🌱 I’m currently learning the necessary skills to improve in programming.
-- 👯 I’m looking to collaborate on any project that would help us grow.
-- 🤔 I’m looking for help with my ✨ social skills ✨.
-- 💬 Ask me about anything, hit me up, pal!
-- 📫 How to reach me: Facebook's Michael Rey Tuando and Instagram's mchlryt.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I study AI to beat AI.
+<br>
+
+<!-- <img src="./images/message.gif" width="300px" align="right"> -->
+
+- 🌎 I'm from the Philippines
+- 👨🏻‍💻 Love programming and graphic designing
+- 🧠 Love acquiring new knowledge and sharing it
+- 🌌 Passionate for astronomy and space-related stuff
+- ✈️ Traveling is one of my favorite hobbies
+- 📧 Reach me via michaelrey.tuando@wvsu.edu.ph
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 💻 Tech stack
+
+![HTML Logo](/images/html5.svg)
+![CSS Logo](/images/css3.svg)
+![Javascript Logo](/images/javascript.svg)
+<!-- ![ReactJS Logo](/images/reactjs.svg)
+![NextJS Logo](/images/nextjs.svg)
+![Typescript Logo](/images/typescript.svg)
+![React-Native Logo](/images/react-native.svg) -->
+
+---
+
+<p align="center" > 
+  <i>Thanks for passing by</i><br><br>
+  <i>Feel free to connect with me</i><br><br>
+  <a href="https://www.linkedin.com/in/michael-rey-tuando-wvsu">
+  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+</a>
+<a href="https://instagram.com/michaelryt">
+<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
+</a>
+</p>
