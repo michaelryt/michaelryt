@@ -24,11 +24,13 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
 <br>
 
 ## 💻 Tech stack
-
-![HTML Logo](/images/icons8-html5.svg){: style="width: 100px; height: 100px;"}
+<img src="/images/icons8-html5.svg" alt="HTML Logo" width="100" height="100" />
+<img src="/images/icons8-css.svg" alt="CSS Logo" width="100" height="100" />
+<img src="/images/icons8-javascript.svg" alt="Javascript Logo" width="100" height="100" />
+<!-- ![HTML Logo](/images/icons8-html5.svg){: style="width: 100px; height: 100px;"}
 ![CSS Logo](/images/icons8-css.svg){: style="width: 100px; height: 100px;"}
 ![Javascript Logo](/images/icons8-javascript.svg){: style="width: 100px; height: 100px;"}
-<!-- ![ReactJS Logo](/images/reactjs.svg)
+![ReactJS Logo](/images/reactjs.svg)
 ![NextJS Logo](/images/nextjs.svg)
 ![Typescript Logo](/images/typescript.svg)
 ![React-Native Logo](/images/react-native.svg) -->
@@ -36,7 +38,7 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
 ---
 
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
+  Thanks for passing by! <br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/michael-rey-tuando-wvsu">
   <code><img alt="My linkedin" width="64" src="./images/icons8-linkedin.svg" /></code>
