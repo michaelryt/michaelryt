@@ -20,13 +20,13 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## 💻 Tech stack
+<div style="display: flex; justify-content: space-around;">
 <img src="/images/icons8-html5.svg" alt="HTML Logo" width="100" height="100" />
 <img src="/images/icons8-css.svg" alt="CSS Logo" width="100" height="100" />
 <img src="/images/icons8-javascript.svg" alt="Javascript Logo" width="100" height="100" />
+</div>
 <!-- ![HTML Logo](/images/icons8-html5.svg){: style="width: 100px; height: 100px;"}
 ![CSS Logo](/images/icons8-css.svg){: style="width: 100px; height: 100px;"}
 ![Javascript Logo](/images/icons8-javascript.svg){: style="width: 100px; height: 100px;"}
