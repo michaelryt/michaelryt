@@ -3,11 +3,11 @@
 Currently, I am pursuing a tech-related degree at one of the most prestigious universities in the Philippines.
 
 I aspire to become a front-end developer and designer. Among all the fields I have explored, it is my passion for communication through clean and reliable visual interfaces that has driven me to consider web development as my dream career.
-
-## 👨🏻‍💻 About me
-
+<br>
 <br>
 
+## 👨🏻‍💻 About me
+<br>
 <!-- <img src="./images/message.gif" width="300px" align="right"> -->
 
 - 🌎 I'm from the Philippines
@@ -17,7 +17,6 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via michaelrey.tuando@wvsu.edu.ph
 
-<br>
 <br>
 <br>
 
