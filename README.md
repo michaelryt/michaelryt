@@ -25,9 +25,9 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
 
 ## 💻 Tech stack
 
-![HTML Logo](/images/html5.svg)
-![CSS Logo](/images/css3.svg)
-![Javascript Logo](/images/javascript.svg)
+![HTML Logo](/images/icons8-html5.svg)
+![CSS Logo](/images/icons8-css.svg)
+![Javascript Logo](/images/icons8-javascript.svg)
 <!-- ![ReactJS Logo](/images/reactjs.svg)
 ![NextJS Logo](/images/nextjs.svg)
 ![Typescript Logo](/images/typescript.svg)
@@ -39,9 +39,9 @@ I aspire to become a front-end developer and designer. Among all the fields I ha
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/michael-rey-tuando-wvsu">
-  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+  <code><img alt="My linkedin" width="32" src="./images/icons8-linkedin.svg" /></code>
 </a>
 <a href="https://instagram.com/michaelryt">
-<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
+<code><img alt="My e-mail" width="32" src="./images/icons8-instagram.svg" /></code>
 </a>
 </p>
