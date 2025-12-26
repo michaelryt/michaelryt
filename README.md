@@ -1,8 +1,8 @@
 # 🖖 Hey devs! I'm Michael <img align="right" src="https://komarev.com/ghpvc/?username=michaelryt&style=flat-square&color=blueviolet">
 
-Currently, I am pursuing a tech-related degree at one of the most prestigious universities in the Philippines.
+Currently, I am pursuing my Computer Science degree at one of the most prestigious universities in the Philippines.
 
-I aspire to become a front-end developer and designer. Among all the fields I have explored, it is my passion for communication through clean and reliable visual interfaces that has driven me to consider web development as my dream career.
+I aspire to become a front-end developer and designer. Among all the fields I have explored, it is my passion for communication through clean and reliable visual interfaces that has driven me to consider web development as my dream career. I aim to bridge the gap between aesthetically pleasing interfaces made possible through simple and reliable codes.
 <br>
 <br>
 
